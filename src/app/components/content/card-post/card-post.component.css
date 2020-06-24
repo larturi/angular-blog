@@ -1,0 +1,31 @@
+#card-post {
+  text-align: center;
+}
+
+#card-post h2.card-title a{
+  color: #1c1e1f;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+#card-post h2.card-title a:hover{
+  color: #50aeb5;
+}
+
+#card-post .link-post {
+  white-space: nowrap;
+  text-overflow: ellipsis;
+  overflow: hidden;
+}
+
+#card-post h3 {
+  font-weight: 400;
+  color: #b2b2b2;
+  font-size: .875em;
+}
+
+#card-post img {
+  max-width: 150px;
+  max-height: 150px;
+  margin: 0 auto;
+}
