@@ -26,5 +26,5 @@
             "link": "https://twitter.com"
         }
     ],
-    "link_dashboard": "http://localhost:3000"
+    "link_dashboard": "https://blog-admin-angular.netlify.app"
 }
